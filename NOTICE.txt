@@ -1,0 +1,50 @@
+Notices for Eclipse Jetty
+=========================
+This content is produced and maintained by the Eclipse Jetty project.
+
+Project home: https://www.eclipse.org/jetty/
+
+Trademarks
+----------
+Eclipse Jetty, and Jetty are trademarks of the Eclipse Foundation.
+
+Copyright
+---------
+All contributions are the property of the respective authors or of
+entities to which copyright has been assigned by the authors (eg. employer).
+
+Declared Project Licenses
+-------------------------
+This artifacts of this project are made available under the terms of:
+
+  * the Eclipse Public License v. 2.0
+    http://www.apache.org/licenses/LICENSE-2.0
+    SPDX-License-Identifier: EPL-2.0
+
+  or
+
+  * the Apache License, Version 2.0
+    https://www.apache.org/licenses/LICENSE-2.0.
+    SPDX-License-Identifier: Apache-2.0
+
+The following dependencies are EPL-2.0 + GPLv2 with classpath exception.
+
+ * jakarta.servlet:javax.servlet-api
+ * jakarta.annotation:javax.annotation-api
+ * jakarta.transaction:javax.transaction-api
+ * jakarta.websocket:javax.websocket-api
+
+The following dependencies are licensed by the OW2 Foundation according to the
+terms of http://asm.ow2.org/license.html
+
+ * org.ow2.asm:asm-commons
+ * org.ow2.asm:asm
+
+Cryptography
+------------
+Content may contain encryption software. The country in which you are currently
+may have restrictions on the import, possession, and use, and/or re-export to
+another country, of encryption software. BEFORE using any encryption software,
+please check the country's laws, regulations and policies concerning the import,
+possession, or use, and re-export of encryption software, to see if this is
+permitted.
